@@ -105,4 +105,4 @@ Commit and push the file main.c created once you completed all the steps of the 
 Record a video of the practice’s functionality and upload it on youtube. The video must contain a short explanation. The link to my video is here: https://youtu.be/iUKxFZE069s
 
 ## Conclusion
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+In this practice, I continued to learn more about the functionalities of MPLAB, by performing a program with C that coordinated buttons and LEDs. The first problem I had was the use of pull-ups and pull-downs, because I never used them before, but then, I solved it and continued with the rest of the code. Another issue I had was how to define which LED to turn on, depending on which button was pressed, but then I saw it was just playing with the binary values. Unfortunately, I wanted to simulate this on Proteus, but the license expired.
